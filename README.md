@@ -11,11 +11,11 @@ Este repositorio contiene 100 ejercicios propuestos por MoureDev para practicar 
 
 El repositorio se organiza de la siguiente manera:
 
-- **`/ejercicios`**: Contiene los 101 ejercicios propuestos por MoureDev.
+- **`/ejercicios`**: Contiene los 100 ejercicios propuestos por MoureDev.
   - **`ejercicio1.js`**: Archivo con la solución del ejercicio 1.
   - **`ejercicio2.js`**: Archivo con la solución del ejercicio 2.
   - ...
-  - **`ejercicio100.js`**: Archivo con la solución del ejercicio 101.
+  - **`ejercicio100.js`**: Archivo con la solución del ejercicio 100.
 
 - **`README.md`**: Este archivo que proporciona información sobre el repositorio.
 
